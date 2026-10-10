@@ -10,6 +10,7 @@ I am currently learning ** Git and github **,because it makes my work * easier *
 - Useful websites for learning: [MDN Web Docs](https://developer.mozilla.org)
 
 ## LISTS
+
 Things I want to learn:
 <ul>
 <li>Markdown and documentation</li>
@@ -18,23 +19,24 @@ Things I want to learn:
 </ul>
 Steps to make a commit in Git:
 <ol>
-1.Check status with 'git status'
-2.Add changes with 'git add'
-3.Commit with 'git commit -m " your message.
-4. Push with 'git push'
+<li>Check status with 'git status'</li>
+<li>Add changes with 'git add'</li>
+<li>Commit with 'git commit -m " your message.</li>
+<li>Push with 'git push'</li>
+</ol>
 
 ## TABLES
 
-     TOOL        |   PURPOSE                           |  LINK                              |
-|----------------|-------------------------------------|------------------------------------|
-|  Git           | tracks changes to your code         |   https://git-scm.com)             |
-|  VS Code       | writes and edits code               |  (https://code.visualstudio.com/)  |
-| Github         | stores code online and collaborates |   (https://github.com)             |
+| task | purpose | link |
+|---|---|---|
+| Git | tracks changes to your code |[gitlink](https://git-scm.com)|
+| VS Code | writes and edits code | [vs code](https://code.visualstudio.com/) |
+| Github | stores code online and collaborates | [github](https://github.com) |
 
 
 ## TASK LIST
 - [x] Learn Markdown headings
-- [x]Practice text formatting 
+- [x] Practice text formatting 
 - [ ] complete git exercises
 - [ ] learn Javascript 
 - [ ] build my first project
