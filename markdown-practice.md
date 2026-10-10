@@ -1,26 +1,29 @@
 # MY LEARNING GOALs
 
-##THIS SEMISTER
+## THIS SEMISTER
 
-##TEXT FORMATTING
+## TEXT FORMATTING
 I am currently learning ** Git and github **,because it makes my work * easier * to write print(codes)
 
-##LINKS
+## LINKS
 -My github profile: https://github.com/gracewambui0432
 - Useful websites for learning: [MDN Web Docs](https://developer.mozilla.org)
 
-##LISTS
+## LISTS
 Things I want to learn:
-- Markdown and documentation
-- Git and github
-- Javascript
+<ul>
+<li>Markdown and documentation</li>
+<li>Git and github</li>
+<li>Javascript</li>
+</ul>
 Steps to make a commit in Git:
+<ol>
 1.Check status with 'git status'
 2.Add changes with 'git add'
 3.Commit with 'git commit -m " your message.
 4. Push with 'git push'
 
-##TABLES
+## TABLES
 
      TOOL        |   PURPOSE                           |  LINK                              |
 |----------------|-------------------------------------|------------------------------------|
@@ -29,21 +32,21 @@ Steps to make a commit in Git:
 | Github         | stores code online and collaborates |   (https://github.com)             |
 
 
-##TASK LIST
+## TASK LIST
 - [x] Learn Markdown headings
--[x]Practice text formatting 
--[ ] complete git exercises
--[ ] learn Javascript 
--[ ] build my first project
+- [x]Practice text formatting 
+- [ ] complete git exercises
+- [ ] learn Javascript 
+- [ ] build my first project
 
-##CODE BLOCK
+## CODE BLOCK
 ```python
 print("Hello, world!")
 ```
-##BLOCKQUOTE
+## BLOCKQUOTE
 > "The only way to learn a new programming language is by writing programs in it."
 
-##ABOUT ME
-** I'm Grace Wambui 
+## ABOUT ME
+**I'm Grace Wambui**
 
 
